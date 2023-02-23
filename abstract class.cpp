@@ -4,7 +4,8 @@ class shape
 {
 
 public:
- virtual void getarea()=0;
+ virtual void getarea()=0;//abstract class
+ 
 
 
 };
